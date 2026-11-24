@@ -1,16 +1,19 @@
-## Hi there 👋
+# HoHyon Lee · 이호현 (ほし)
 
-<!--
-**hoshi2710/hoshi2710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering Student · Backend with Node.js, TypeScript & AWS**
 
-Here are some ideas to get you started:
+[한국어](#한국어) · [English](#english) · [Blog](https://hoshi2710.github.io/) · [LinkedIn](https://www.linkedin.com/in/hohyon-lee-a5b250312/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 한국어
+
+서경대학교에서 소프트웨어를 공부하고 있습니다. Node.js와 TypeScript로 백엔드 API를 만들고, 비동기 작업 설계와 AWS 배포를 다룹니다.
+
+- **[Donakawa](https://github.com/donakawa/donakawa-BE)** · 상품 수집을 API 요청에서 분리했습니다. SQS와 Lambda로 수집을 처리하고, Valkey로 상태를 저장하며, SSE로 완료를 알렸습니다. [설계 글](https://hoshi2710.github.io/blog/2026-03-24-sqs-lambda-valkey-sse-crawling-workflow/)
+- **[EKEC](https://github.com/EKEC-crew/BE)** · UMC 팀의 백엔드 개발을 이끌었습니다. Docker로 EC2 배포를 구성하고 GitHub Actions로 빌드와 배포를 자동화했습니다. [JWT 설계 글](https://hoshi2710.github.io/blog/2025-08-14-jwt-duplicate-login-detection/)
+
+## English
+
+I study software engineering at Seokyeong University. I build backend APIs with Node.js and TypeScript and work on asynchronous workflows and AWS deployment.
+
+- **[Donakawa](https://github.com/donakawa/donakawa-BE)** · Moved product collection off the API request path with SQS and Lambda, tracked job status in Valkey, and notified clients of completion with server-sent events. [Technical write-up (Korean)](https://hoshi2710.github.io/blog/2026-03-24-sqs-lambda-valkey-sse-crawling-workflow/)
+- **[EKEC](https://github.com/EKEC-crew/BE)** · Led backend development for a UMC team project. Set up Docker-based deployment to EC2 and automated builds and deployments with GitHub Actions. [JWT write-up (Korean)](https://hoshi2710.github.io/blog/2025-08-14-jwt-duplicate-login-detection/)
