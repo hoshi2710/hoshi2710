@@ -1,6 +1,6 @@
 # 공백 · Gongbaek
 
-[한국어](#한국어) · [English](#english) · [프로필로 돌아가기 / Back to profile](README.md)
+[한국어](#한국어) · [English](#english) · [백엔드 포크 / Backend fork](https://github.com/hoshi2710/gongbaek-backend) · [팀 원본 / Team repository](https://github.com/SKTHON2026-Hackathon-Oide/Backend) · [프로필로 돌아가기 / Back to profile](README.md)
 
 ## 한국어
 
@@ -12,4 +12,4 @@
 
 Gongbaek was a team hackathon project that helped compare potential business locations in Seoul. I led backend development and scoped the MVP around the commercial vacancy data we could obtain.
 
-For recommendations that took time to generate, I compared job completion with what the UI received in a test deployment to investigate asynchronous result delivery. This write-up focuses on my role and decisions; the team repository remains private.
+For recommendations that took time to generate, I compared job completion with what the UI received in a test deployment to investigate asynchronous result delivery. This write-up focuses on my role and decisions.
